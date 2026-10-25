@@ -1,0 +1,12 @@
+{
+  "name": "ha-tivi-tizenbrew",
+  "version": "1.0.0",
+  "description": "Mở dashboard Tivi của Home Assistant công ty toàn màn hình trên tivi Samsung (TizenBrew)",
+  "packageType": "mods",
+  "appName": "HA Tivi",
+  "websiteURL": "https://dashboard.bat-ai.com/dashboard-tivi/tivi",
+  "main": "ha-tivi.js",
+  "evaluateScriptOnDocumentStart": true,
+  "keys": ["ColorF0Red"],
+  "license": "MIT"
+}
